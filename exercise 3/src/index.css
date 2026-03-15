@@ -69,6 +69,7 @@ header h1 {
   color: white;
   text-align: center;
   cursor: pointer;
+  border: none;
 }
 .order-button .disable {
   background-color: var(--grey-color);
